@@ -1,4 +1,4 @@
-# Fire![#1589F0](https://placehold.it/15/1589F0/000000?text=+)`Ard`Py
+# <b style="color: #f4eb42">Fire</b>ArdPy
 
 <p><b>FireArdPy</b> is an Arduino Based Project to connect from Firebase using Python3.</p>
 
