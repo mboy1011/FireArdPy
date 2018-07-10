@@ -9,9 +9,9 @@
 
 
 ## Requirements:
-* [![Python3](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
-* [![Arduino Uno R3 Kit](https://www.arduino.cc/favicon.ico)](https://store.arduino.cc/usa/arduino-starter-kit)
-* [![Firebase Account](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png)](https://console.firebase.google.com/)
+[![Python3](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
+[![Arduino Uno R3 Kit](https://www.arduino.cc/favicon.ico)](https://store.arduino.cc/usa/arduino-starter-kit)
+[![Firebase Account](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png)](https://console.firebase.google.com/)
 
 ## Installation:
 1. Connect your Arduino Uno R3 to your computer.
@@ -42,6 +42,6 @@
 	<br><b>Email:</b> <i>user@firebase.com</i>
 	<br><b>Password:</b> <i>user1234</i>
 ##
-
+[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/k4m4/kickthemout)
 
 
