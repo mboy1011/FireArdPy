@@ -9,9 +9,9 @@
 
 
 ## Requirements:
-1. [![Python3](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
-2. [![Arduino Uno R3 Kit](https://www.arduino.cc/favicon.ico)](https://store.arduino.cc/usa/arduino-starter-kit)
-3. [![Firebase Account](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png)](https://console.firebase.google.com/)
+* [![Python3](https://www.python.org/static/img/python-logo.png)](https://www.python.org/downloads/)
+* [![Arduino Uno R3 Kit](https://www.arduino.cc/favicon.ico)](https://store.arduino.cc/usa/arduino-starter-kit)
+* [![Firebase Account](https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png)](https://console.firebase.google.com/)
 
 ## Installation:
 1. Connect your Arduino Uno R3 to your computer.
