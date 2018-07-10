@@ -1,8 +1,9 @@
 import pyrebase
 from pyfirmata import Arduino, util
 from time import sleep
+import getpass
 
-# # Credentials for Firebase Account
+## Credentials for Firebase Account
 config = {
 	"apiKey": "AIzaSyA5qDzIcT3nsfha6yE4lH_7rbf3JjoQkHM",
 	"authDomain": "colors-45ade.firebaseapp.com",
@@ -12,12 +13,17 @@ config = {
 
 firebase = pyrebase.initialize_app(config)
 
-#Authentication
-email = "user@firebase.com"
-password = "user1234"
+# Authentication
+# email = "user@firebase.com"
+# password = "user1234"
 
 # Get a reference to the auth service
 auth = firebase.auth()
+
+# Input Firebase Credentials
+print("\033[0;33;48mFire\033[0;34;48mArd\033[0;37;48mPy")
+email = input("\033[0;37;48mEmail: ")
+password = getpass.getpass(prompt='Password:')
 
 # Log the user in
 user = auth.sign_in_with_email_and_password(email, password)
