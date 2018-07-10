@@ -22,10 +22,10 @@ Installation:
 	<br>pip3 install -r requirements.txt
 4. Go to console.firebase.google.com and fill out the configuration needed by the Pyrebase.
 5. Run command:
-	<br><b>Windows</b>
-	python fireArd.py
-	<br><b>Linux</b>
-	python3 fireArd.py
+	<br><b>Windows</b></br>
+	<code>python fireArd.py</code>
+	<br><b>Linux</b></br>
+	<code>python3 fireArd.py</code>
 
 
 
