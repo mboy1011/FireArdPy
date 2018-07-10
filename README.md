@@ -17,9 +17,8 @@ Installation:
 1. Connect your Arduino Uno R3 to your computer.
 2. Upload a Standard Firmata on your Arduino using Arduino IDE.
 3. Install requirements for Python3:
-	<br>pip install -r requirements.txt  
-	<br>or
-	<br>pip3 install -r requirements.txt
+	<br><code>pip install -r requirements.txt</code>
+	<br><code>pip3 install -r requirements.txt</code>
 4. Go to console.firebase.google.com and fill out the configuration needed by the Pyrebase.
 5. Run command:
 	<br><b>Windows</b></br>
