@@ -38,6 +38,9 @@
 	<code>python fireArd.py</code>
 	<br><b>Linux</b></br>
 	<code>python3 fireArd.py</code>
+8. Enter this Sample Account:
+	<br><b>Email:</b><i>user@firebase.com</i>
+	<br><b>Password:</b><i>user1234</i>
 
 
 
