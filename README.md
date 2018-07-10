@@ -2,18 +2,18 @@
 
 <p><b>FireArdPy</b> is an Arduino Based Project to connect from Firebase using Python3.</p>
 
-Prerequisite:
+##Prerequisite:
 * Basic knowledge to Programming (Python).
 * Basic knowledge of NoSQL databases since Firebase is a NoSQL.
 * Basic knowledge of Electronics.
 
 
-Requirements:
+##Requirements:
 1. Python3
 2. Arduino Uno R3 Kit
 3. Firebase Account
 
-Installation:
+##Installation:
 1. Connect your Arduino Uno R3 to your computer.
 2. Upload a Standard Firmata on your Arduino using Arduino IDE.
 3. Install requirements for Python3:
