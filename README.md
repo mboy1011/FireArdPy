@@ -22,12 +22,14 @@
 4. Go to console.firebase.google.com and fill out the configuration needed by the Pyrebase.
 5. Copy this rule to your Firebase Database Rules and Publish:
 	<code>
+	```json
 	{
 		"rules": {
 			".read": "auth != null",
 			".write": "auth != null"
 		}
 	}
+	```
 	</code>
 6. Follow the Circuit Diagram:
 ![Diagram](https://github.com/mboy1011/FireArdPy/blob/master/Circuit%20Diagram.png)
