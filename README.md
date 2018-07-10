@@ -1,5 +1,6 @@
 # FireArdPy
-<b>FireArdPy</b> is an Arduino Based Project to connect from Firebase using Python3.
+======
+<p><b>FireArdPy</b> is an Arduino Based Project to connect from Firebase using Python3.</p>
 ======
 Prerequisite:
 * Basic knowledge to Programming (Python).
