@@ -20,9 +20,18 @@
 	<br><code>pip install -r requirements.txt</code>
 	<br><code>pip3 install -r requirements.txt</code>
 4. Go to console.firebase.google.com and fill out the configuration needed by the Pyrebase.
-5. Follow the Circuit Diagram:
+5. Copy this rule to your Firebase Database Rules and Publish:
+	<code>
+	{
+		"rules": {
+			".read": "auth != null",
+			".write": "auth != null"
+		}
+	}
+	</code>
+6. Follow the Circuit Diagram:
 ![Diagram](https://github.com/mboy1011/FireArdPy/blob/master/Circuit%20Diagram.png)
-6. Run command:
+7. Run command:
 	<br><b>Windows</b></br>
 	<code>python fireArd.py</code>
 	<br><b>Linux</b></br>
