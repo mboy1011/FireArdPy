@@ -42,5 +42,6 @@
 	<br><b>Password:</b> <i>user1234</i>
 ##
 [![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/mboy1011/FireArdPy.git)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mboy1011/FireArdPy.git)
 
 
