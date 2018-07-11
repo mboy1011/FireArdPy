@@ -41,6 +41,6 @@
 	<br><b>Email:</b> <i>user@firebase.com</i>
 	<br><b>Password:</b> <i>user1234</i>
 ##
-[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/k4m4/kickthemout)
+[![Compatibility](https://img.shields.io/badge/python-3-brightgreen.svg)](https://github.com/mboy1011/FireArdPy)
 
 
