@@ -1,4 +1,4 @@
-# FireArdPy
+# ![FireArdPy](https://github.com/mboy1011/FireArdPy/blob/master/FireArdPy.png) FireArdPy
 
 <p><b>FireArdPy</b> is an Arduino Based Project to connect from Firebase using Python3.</p>
 
